@@ -71,7 +71,7 @@ Once we observe the data and update our beliefs, we obtain the following posteri
 
 ![posterior](outputs/posterior_plot.png)
 
-This shows the **entire distribution of likely conversion rates** for each group — not just a point estimate or a confidence interval.
+This shows the **entire distribution of likely conversion rates** for each group not just a point estimate or a confidence interval.
 
 ---
 
@@ -147,7 +147,7 @@ bayesian-ab-testing/
 ## 🧪 Reproducibility
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bayesian-ab-testing
+git clone https://github.com/lexusimni/bayesian-ab-testing
 cd bayesian-ab-testing
 python -m venv .venv
 source .venv/bin/activate    # Windows: .\.venv\Scripts\activate
