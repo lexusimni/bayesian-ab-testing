@@ -161,7 +161,7 @@ Then open `notebooks/bayesian_ab_test.ipynb` and run each cell.
 
 ## 🔗 Connect With Me
 
-- 🌐 **GitHub**: [github.com/YOUR_USERNAME](https://github.com/lexusimni)
-- 💼 **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/alexus-glass-248061237/)
+- 🌐 **GitHub**: [Github](https://github.com/lexusimni)
+- 💼 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/alexus-glass-248061237/)
 
 ---
